@@ -5,8 +5,10 @@ const doc = {
     title: 'My API',
     description: 'Teams API'
   },
-  host: 'localhost:8080',
-  schemes: ['http']
+  // host: 'localhost:8080',
+  // schemes: ['http']
+  host: 'teams-service.onrender.com',
+  schemes: ['https']
 };
 
 const outputFile = './swagger.json';
