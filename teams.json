@@ -1,0 +1,823 @@
+{
+    
+      "Cincinnati":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Cincinnati",      
+        "abbrev":"CIN",
+        "mascot":"Bearcats",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/cincinnati.png"
+      },
+      "Connecticut":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Mansfield",
+        "abbrev":"UCONN",
+        "mascot":"Huskies",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/connecticut.png"
+      },
+      "East Carolina":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Greenville",
+        "abbrev":"ECU",
+        "mascot":"Pirates",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/eastCarolina.png"
+      },
+      "Houston":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Houston",
+        "abbrev":"HOU",
+        "mascot":"Cougars",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/houston.png"
+      },
+      "Memphis":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Memphis",
+        "abbrev":"MEM",
+        "mascot":"Tigers",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/memphis.png"
+      },
+      "Navy":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Annapolis",
+        "abbrev":"NAVY",
+        "mascot":"Midshipmen",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/navy.png"
+      },
+      "SMU":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Dallas",
+        "abbrev":"SMU",
+        "mascot":"Mustangs",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/smu.png"
+      },
+      "South Florida":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Tampa",
+        "abbrev":"USF",
+        "mascot":"Bulls",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/southFlorida.png"
+      },
+      "Temple":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Philadelphia",
+        "abbrev":"TEM",
+        "mascot":"Owls",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/temple.png"
+      },
+      "Tulane":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"New Orleans",
+        "abbrev":"TULN",
+        "mascot":"Green Wave",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/tulane.png"
+      },
+      "Tulsa":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"",
+        "abbrev":"TLSA",
+        "mascot":"Golden Hurricane",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/tulsa.png"
+      },
+      "UCF":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Orlando",
+        "abbrev":"UCF",
+        "mascot":"Knights",
+        "conference":"AAC",
+        "pic":"./collegeFootball/logos/ucf.png"
+      },
+      "Boston College":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Newton",
+        "abbrev":"BC",
+        "mascot":"Eagles",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/boston.png"
+      },
+      "Clemson":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Clemson",
+        "abbrev":"CLEM",
+        "mascot":"Tigers",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/clemson.png"
+      },
+      "Duke":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Durham",
+        "abbrev":"DUKE",
+        "mascot":"Blue Devils",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/duke.png"
+      },
+      "Florida State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Tallahassee",
+        "abbrev":"FSU",
+        "mascot":"Seminoles",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/floridaState.png"
+      },
+      "Georgia Tech":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Atlanta",
+        "abbrev":"GT",
+        "mascot":"Yellow Jackets",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/georgiaTech.png"
+      },
+      "Louisville":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Louisville",
+        "abbrev":"LOU",
+        "mascot":"Cardinals",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/louisville.png"
+      },
+      "Miami":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Miami",
+        "abbrev":"MIAMI",
+        "mascot":"Hurricanes",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/miami.png"
+      },
+      "NC State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Raleigh",
+        "abbrev":"NCST",
+        "mascot":"Wolfpack",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/ncState.png"
+      },
+      "North Carolina":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Chapel Hill",
+        "abbrev":"NC",
+        "mascot":"Tar Heels",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/northCarolina.png"
+      },
+      "Pittsburgh":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Pittsburgh",
+        "abbrev":"PITT",
+        "mascot":"Panthers",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/pittsburgh.png"
+      },
+      "Syracuse":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Syracuse",
+        "abbrev":"SYR",
+        "mascot":"Orange",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/syracuse.png"
+      },
+      "Virginia":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Charolottesville",
+        "abbrev":"UVA",
+        "mascot":"Cavaliers",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/virginia.png"
+      },
+      "Virginia Tech":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Blacksburg",
+        "abbrev":"VT",
+        "mascot":"Hokies",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/virginiaTech.png"
+      },
+      "Wake Forest":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Winston-Salem",
+        "abbrev":"WAKE",
+        "mascot":"Demon Deacons",
+        "conference":"ACC",
+        "pic":"./collegeFootball/logos/wakeForest.png"
+      },
+      "Baylor":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Waco",
+        "abbrev":"BAY",
+        "mascot":"Bears",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/baylor.png"
+      },
+      "Iowa State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Ames",
+        "abbrev":"ISU",
+        "mascot":"Cyclones",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/iowaState.png"
+      },
+      "Kansas":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Lawrence",
+        "abbrev":"KU",
+        "mascot":"Jayhawks",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/kansas.png"
+      },
+      "Kansas State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Manhatten",
+        "abbrev":"KSU",
+        "mascot":"Wildcats",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/kansasState.png"
+      },
+      "Oklahoma":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Norman",
+        "abbrev":"OKLA",
+        "mascot":"Sooners",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/oklahoma.png"
+      },
+      "Oklahoma State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Stillwater",
+        "abbrev":"OKST",
+        "mascot":"Cowboys",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/oklahomaState.png"
+      },
+      "TCU":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Fort Worth",
+        "abbrev":"TCU",
+        "mascot":"Horned Frogs",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/tcu.png"
+      },
+      "Texas":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Austin",
+        "abbrev":"TEX",
+        "mascot":"Longhorns",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/texas.png"
+      },
+      "Texas Tech":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Lubbock",
+        "abbrev":"TTU",
+        "mascot":"Red Raiders",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/texasTech.png"
+      },
+      "West Virginia":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Morgantown",
+        "abbrev":"WVU",
+        "mascot":"Mountaineers",
+        "conference":"BIG 12",
+        "pic":"./collegeFootball/logos/westVirginia.png"
+      },
+      "Illinois":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Champaign",
+        "abbrev":"ILL",
+        "mascot":"Fighting Illini",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/illinois.png"
+      },
+      "Indiana":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Bloomington",
+        "abbrev":"IND",
+        "mascot":"Hoosiers",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/indiana.png"
+      },
+      "Iowa":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Iowa City",
+        "abbrev":"IOWA",
+        "mascot":"Hawkeyes",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/iowa.png"
+      },
+      "Maryland":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"College Park",
+        "abbrev":"MARY",
+        "mascot":"terrapins",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/maryland.png"
+      },
+      "Michigan":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Ann Arbor",
+        "abbrev":"MICH",
+        "mascot":"Wolverines",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/michigan.png"
+      },
+      "Michigan State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"East Lansing",
+        "abbrev":"MIST",
+        "mascot":"Spartans",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/michiganState.png"
+      },
+      "Minnesota":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Minneapolis",
+        "abbrev":"MINN",
+        "mascot":"Golden Gophers",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/minnesota.png"
+      },
+      "Nebraska":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Lincoln",
+        "abbrev":"NEB",
+        "mascot":"cornhuskers",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/nebraska.png"
+      },
+      "Northwestern":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Evanston",
+        "abbrev":"NWEST",
+        "mascot":"Wildcats",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/northwestern.png"
+      },
+      "Ohio State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Columbus",
+        "abbrev":"OHST",
+        "mascot":"Buckeyes",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/ohioState.png"
+      },
+      "Penn State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"State College",
+        "abbrev":"PSU",
+        "mascot":"Nittany Lions",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/pennState.png"
+      },
+      "Purdue":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"West Lafayette",
+        "abbrev":"PURD",
+        "mascot":"Boilermakers",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/purdue.png"
+      },
+      "Rutgers":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"New Brunswick",
+        "abbrev":"RUTG",
+        "mascot":"Scarlet Knights",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/rutgers.png"
+      },
+      "Wisconsin":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Madison",
+        "abbrev":"WIS",
+        "mascot":"Badgers",
+        "conference":"BIG TEN",
+        "pic":"./collegeFootball/logos/wisconsin.png"
+      },
+      "Army":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Westpoint",
+        "abbrev":"ARMY",
+        "mascot":"Black Knights",
+        "conference":"Indy",
+        "pic":"./collegeFootball/logos/army.png"
+      },
+      "BYU":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Provo",
+        "abbrev":"BYU",
+        "mascot":"Cougars",
+        "conference":"Indy",
+        "pic":"./collegeFootball/logos/byu.png"
+      },
+      "Notre Dame":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"South Bend",
+        "abbrev":"NDAME",
+        "mascot":"Fighting Irish",
+        "conference":"Indy",
+        "pic":"./collegeFootball/logos/notreDame.png"
+      },
+      "Air Force":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Colorado Springs",
+        "abbrev":"AF",
+        "mascot":"Falcons",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/airForce.png"
+      },
+      "Boise State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Boise",
+        "abbrev":"BOISE",
+        "mascot":"Broncos",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/boiseState.png"
+      },
+      "Colorado State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Fort Collins",
+        "abbrev":"CSU",
+        "mascot":"Rams",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/coloradoState.png"
+      },
+      "Fresno State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Fresno",
+        "abbrev":"FRSNO",
+        "mascot":"Bulldogs",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/fresnoState.png"
+      },
+      "Hawaii":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Honolulu",
+        "abbrev":"HAW",
+        "mascot":"Rainbow Warriors",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/hawaii.png"
+      },
+      "Nevada":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Reno",
+        "abbrev":"NEV",
+        "mascot":"Wolf Pack",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/nevada.png"
+      },
+      "New Mexico":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Albuquerque",
+        "abbrev":"UNM",
+        "mascot":"Lobos",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/newMexico.png"
+      },
+      "San Diego State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"San Diego",
+        "abbrev":"SDSU",
+        "mascot":"Aztecs",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/sanDiegoState.png"
+      },
+      "San José State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"San Jose",
+        "abbrev":"SISU",
+        "mascot":"Spartans",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/sanJoseState.png"
+      },
+      "UNLV":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Las Vegas",
+        "abbrev":"UNLV",
+        "mascot":"Rebels",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/unlv.png"
+      },
+      "Utah State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Logan",
+        "abbrev":"UTST",
+        "mascot":"Aggies",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/utahState.png"
+      },
+      "Wyoming":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Laramie",
+        "abbrev":"WYO",
+        "mascot":"Cowboys",
+        "conference":"MWC",
+        "pic":"./collegeFootball/logos/wyoming.png"
+      },
+      "Arizona":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Tucson",
+        "abbrev":"ARIZ",
+        "mascot":"Wildcats",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/arizona.png"
+      },
+      "Arizona State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Tempe",
+        "abbrev":"ARST",
+        "mascot":"Sun Devils",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/arizonaState.png"
+      },
+      "California":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Berkley",
+        "abbrev":"CAL",
+        "mascot":"Golden Bears",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/california.png"
+      },
+      "Colorado":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Boulder",
+        "abbrev":"COL",
+        "mascot":"Buffaloes",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/colorado.png"
+      },
+      "Oregon":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Eugene",
+        "abbrev":"OREG",
+        "mascot":"Ducks",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/oregon.png"
+      },
+      "Oregon State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Corvallis",
+        "abbrev":"ORST",
+        "mascot":"Beavers",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/oregonState.png"
+      },
+      "Stanford":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Stanford",
+        "abbrev":"STAN",
+        "mascot":"Cardinal",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/stanford.png"
+      },
+      "UCLA":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Los Angeles",
+        "abbrev":"UCLA",
+        "mascot":"Bruins",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/ucla.png"
+      },
+      "USC":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Los Angeles",
+        "abbrev":"USC",
+        "mascot":"Trojans",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/usc.png"
+      },
+      "Utah":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Salt Lake City",
+        "abbrev":"UTAH",
+        "mascot":"Utes",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/utah.png"
+      },
+      "Washington":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Seattle",
+        "abbrev":"WASH",
+        "mascot":"Huskies",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/washington.png"
+      },
+      "Washington State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Pullman",
+        "abbrev":"WSU",
+        "mascot":"Cougars",
+        "conference":"PAC 12",
+        "pic":"./collegeFootball/logos/washingtonState.png"
+      },
+      "Alabama":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Tuscaloosa",
+        "abbrev":"BAMA",
+        "mascot":"Crimson Tide",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/alabama.png"
+      },
+      "Arkansas":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Fayetteville",
+        "abbrev":"ARK",
+        "mascot":"Razorbacks",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/arkansas.png"
+      },
+      "Auburn":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Auburn",
+        "abbrev":"AUB",
+        "mascot":"Tigers",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/auburn.png"
+      },
+      "Florida":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Gainesville",
+        "abbrev":"UF",
+        "mascot":"Gators",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/florida.png"
+      },
+      "Georgia":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Athens",
+        "abbrev":"UGA",
+        "mascot":"Bulldogs",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/georgia.png"
+      },
+      "Kentucky":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Lexington",
+        "abbrev":"UK",
+        "mascot":"Wildcats",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/kentucky.png"
+      },
+      "LSU":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Baton Rouge",
+        "abbrev":"LSU",
+        "mascot":"Tigers",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/lsu.png"
+      },
+      "Mississippi State":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Starkville",
+        "abbrev":"MSST",
+        "mascot":"Bulldogs",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/mississippiState.png"
+      },
+      "Missouri":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Columbia",
+        "abbrev":"MIZZ",
+        "mascot":"Tigers",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/missouri.png"
+      },
+      "Ole Miss":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Oxford",
+        "abbrev":"MISS",
+        "mascot":"Rebels",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/oleMiss.png"
+      },
+      "South Carolina":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Columbia",
+        "abbrev":"SCAR",
+        "mascot":"Gamecocks",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/southCarolina.png"
+      },
+      "Tennessee":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Knoxville",
+        "abbrev":"TENN",
+        "mascot":"Volunteers",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/tennessee.png"
+      },
+      "Texas A&M":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"College Station",
+        "abbrev":"TXAM",
+        "mascot":"Aggies",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/texasAM.png"
+      },
+      "Vanderbilt":{
+        "division":"FBS",
+        "sport":"Football",
+        "location":"Nashville",
+        "abbrev":"VAND",
+        "mascot":"Commodores",
+        "conference":"SEC",
+        "pic":"./collegeFootball/logos/vanderbilt.png"
+      }
+    
+  }
